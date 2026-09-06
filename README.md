@@ -62,6 +62,7 @@ Every other tool runs independently and requires neither sqmSQLTool nor any of t
 | [AlwaysOnSetup](https://github.com/JankeUwe/AlwaysOnSetup) &nbsp;·&nbsp; [site](https://www.powershelldba.de/alwaysonsetup/) | Fully automated setup of AlwaysOn availability groups |
 | [SQLMigration](https://github.com/JankeUwe/SQLMigration) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqlmigration/) | Two-phase SQL Server migration across separated networks |
 | [sqmPartitionTool](https://github.com/JankeUwe/sqmPartitionTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqmpartitiontool/) | Table partitioning with an automatic sliding window (GUI and CLI) |
+| [sqmDataTransfer](https://github.com/JankeUwe/sqmDataTransfer) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqmtransfer/) | Table-data transfer between SQL Server instances (dbatools-based), with metadata scripting and row-count reconciliation |
 | [InplaceUpDate](https://github.com/JankeUwe/InplaceUpDate) &nbsp;·&nbsp; [site](https://www.powershelldba.de/inplaceupdate/) | In-place upgrades that back up every dependency, with a runbook |
 | [SSRSDeploymentTool](https://github.com/JankeUwe/SSRSDeploymentTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/ssrsdeploymenttool/) | SSRS report deployment through the REST API v2.0 |
 | [ReportServerCheck](https://github.com/JankeUwe/ReportServerCheck) &nbsp;·&nbsp; [site](https://www.powershelldba.de/reportservercheck/) | 20 RDL diagnostic reports for SSRS and Power BI Report Server |
@@ -69,6 +70,7 @@ Every other tool runs independently and requires neither sqmSQLTool nor any of t
 | [OperationsManager](https://github.com/JankeUwe/OperationsManager) &nbsp;·&nbsp; [site](https://www.powershelldba.de/operationsmanager/) | Reporting layer over the SCOM OperationsManagerDW with SQL Server inventory |
 | [SsisAnalyzer](https://github.com/JankeUwe/SsisAnalyzer) &nbsp;·&nbsp; [site](https://www.powershelldba.de/ssisanalyzer/) | SSIS analysis and documentation: control flow, version comparison, data lineage (.NET 9) |
 | [SqlRefactorAnalyzer](https://github.com/JankeUwe/SqlRefactorAnalyzer) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqlrefactoranalyzer/) | T-SQL refactoring and execution plan analysis, strictly read-only (C#/WinForms) — [binaries](https://github.com/JankeUwe/SqlRefactorAnalyzerEXE) |
+| [DbSchemaCompare](https://github.com/JankeUwe/DbSchemaCompare) &nbsp;·&nbsp; [site](https://www.powershelldba.de/dbcompare/) | Full schema comparison between two live SQL Server databases in a single HTML report (C#) — [binaries](https://github.com/JankeUwe/DbSchemaCompareEXE) |
 | [TDPBackup](https://github.com/JankeUwe/TDPBackup) | Backup management for SQL Server with TDP/TSM, one job for every scenario |
 
 ---
