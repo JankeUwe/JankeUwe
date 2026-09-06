@@ -57,18 +57,18 @@ Every other tool runs independently and requires neither sqmSQLTool nor any of t
 
 | Project | Purpose |
 | ------- | ------- |
-| [SQLSetupTool](https://github.com/JankeUwe/SQLSetupTool) | Fully automated, standardized SQL Server installation and configuration (WinForms) |
-| [sqmSQLTool](https://github.com/JankeUwe/sqmSQLTool) | Administration framework: 155 functions for reporting, health checks, maintenance and security auditing ([PowerShell Gallery](https://www.powershellgallery.com/packages/sqmSQLTool)) |
-| [AlwaysOnSetup](https://github.com/JankeUwe/AlwaysOnSetup) | Fully automated setup of AlwaysOn availability groups |
-| [SQLMigration](https://github.com/JankeUwe/SQLMigration) | Two-phase SQL Server migration across separated networks |
-| [sqmPartitionTool](https://github.com/JankeUwe/sqmPartitionTool) | Table partitioning with an automatic sliding window (GUI and CLI) |
-| [InplaceUpDate](https://github.com/JankeUwe/InplaceUpDate) | In-place upgrades that back up every dependency, with a runbook |
-| [SSRSDeploymentTool](https://github.com/JankeUwe/SSRSDeploymentTool) | SSRS report deployment through the REST API v2.0 |
-| [ReportServerCheck](https://github.com/JankeUwe/ReportServerCheck) | 20 RDL diagnostic reports for SSRS and Power BI Report Server |
-| [DeadlockCollector](https://github.com/JankeUwe/DeadlockCollector) | Automatic deadlock capture from the system_health XEvent session |
-| [OperationsManager](https://github.com/JankeUwe/OperationsManager) | Reporting layer over the SCOM OperationsManagerDW with SQL Server inventory |
-| [SsisAnalyzer](https://github.com/JankeUwe/SsisAnalyzer) | SSIS analysis and documentation: control flow, version comparison, data lineage (.NET 9) |
-| [SqlRefactorAnalyzer](https://github.com/JankeUwe/SqlRefactorAnalyzer) | T-SQL refactoring and execution plan analysis, strictly read-only (C#/WinForms) — [binaries](https://github.com/JankeUwe/SqlRefactorAnalyzerEXE) |
+| [SQLSetupTool](https://github.com/JankeUwe/SQLSetupTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqlsetuptool/) | Fully automated, standardized SQL Server installation and configuration (WinForms) |
+| [sqmSQLTool](https://github.com/JankeUwe/sqmSQLTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqmsqltool/commands-en/) | Administration framework: 155 functions for reporting, health checks, maintenance and security auditing ([PowerShell Gallery](https://www.powershellgallery.com/packages/sqmSQLTool)) |
+| [AlwaysOnSetup](https://github.com/JankeUwe/AlwaysOnSetup) &nbsp;·&nbsp; [site](https://www.powershelldba.de/alwaysonsetup/) | Fully automated setup of AlwaysOn availability groups |
+| [SQLMigration](https://github.com/JankeUwe/SQLMigration) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqlmigration/) | Two-phase SQL Server migration across separated networks |
+| [sqmPartitionTool](https://github.com/JankeUwe/sqmPartitionTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqmpartitiontool/) | Table partitioning with an automatic sliding window (GUI and CLI) |
+| [InplaceUpDate](https://github.com/JankeUwe/InplaceUpDate) &nbsp;·&nbsp; [site](https://www.powershelldba.de/inplaceupdate/) | In-place upgrades that back up every dependency, with a runbook |
+| [SSRSDeploymentTool](https://github.com/JankeUwe/SSRSDeploymentTool) &nbsp;·&nbsp; [site](https://www.powershelldba.de/ssrsdeploymenttool/) | SSRS report deployment through the REST API v2.0 |
+| [ReportServerCheck](https://github.com/JankeUwe/ReportServerCheck) &nbsp;·&nbsp; [site](https://www.powershelldba.de/reportservercheck/) | 20 RDL diagnostic reports for SSRS and Power BI Report Server |
+| [DeadlockCollector](https://github.com/JankeUwe/DeadlockCollector) &nbsp;·&nbsp; [site](https://www.powershelldba.de/deadlockcollector/) | Automatic deadlock capture from the system_health XEvent session |
+| [OperationsManager](https://github.com/JankeUwe/OperationsManager) &nbsp;·&nbsp; [site](https://www.powershelldba.de/operationsmanager/) | Reporting layer over the SCOM OperationsManagerDW with SQL Server inventory |
+| [SsisAnalyzer](https://github.com/JankeUwe/SsisAnalyzer) &nbsp;·&nbsp; [site](https://www.powershelldba.de/ssisanalyzer/) | SSIS analysis and documentation: control flow, version comparison, data lineage (.NET 9) |
+| [SqlRefactorAnalyzer](https://github.com/JankeUwe/SqlRefactorAnalyzer) &nbsp;·&nbsp; [site](https://www.powershelldba.de/sqlrefactoranalyzer/) | T-SQL refactoring and execution plan analysis, strictly read-only (C#/WinForms) — [binaries](https://github.com/JankeUwe/SqlRefactorAnalyzerEXE) |
 | [TDPBackup](https://github.com/JankeUwe/TDPBackup) | Backup management for SQL Server with TDP/TSM, one job for every scenario |
 
 ---
